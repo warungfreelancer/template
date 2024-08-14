@@ -41,5 +41,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries or support, please visit our [Support Page](https://warungfreelancer.com/support) or contact us at [support@warungfreelancer.com](mailto:support@warungfreelancer.com).
+For any inquiries or support, please visit our [Support Page](https://warungfreelancer.com/) or contact us at [support@warungfreelancer.com](mailto:support@warungfreelancer.com).
 
